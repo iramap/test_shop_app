@@ -18,21 +18,21 @@ samples, guidance on mobile development, and a full API reference.
 API's
 https://fakestoreapi.com/
 
-Libraries
-  cupertino_icons: ^1.0.2
-  fluttertoast: ^8.0.9
-  flutter_spinkit: ^5.1.0
-  dio: ^4.0.6
-  url_launcher: ^6.1.5
-  connectivity_plus: ^2.3.7
-  intl: ^0.17.0
-  awesome_dialog: ^3.0.2
-  shared_preferences: ^2.0.15
-  flutter_svg: ^1.1.5
-  cached_network_image: ^3.2.2
-  share_plus: ^4.4.0
-  velocity_x: ^3.5.1
-  lottie: ^2.3.2
+Libraries : 
+cupertino_icons: ^1.0.2
+fluttertoast: ^8.0.9
+flutter_spinkit: ^5.1.0
+dio: ^4.0.6
+url_launcher: ^6.1.5
+connectivity_plus: ^2.3.7
+intl: ^0.17.0
+awesome_dialog: ^3.0.2
+shared_preferences: ^2.0.15
+flutter_svg: ^1.1.5
+cached_network_image: ^3.2.2
+share_plus: ^4.4.0
+velocity_x: ^3.5.1
+lottie: ^2.3.2
 
 
   
